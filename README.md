@@ -1,5 +1,5 @@
 # Cisco-Packet-Trace-Project
-setting up DHCP, DNS, Mail, and Web server in 3 Connected Networks with Routers. (Persian)
+setting up DHCP, DNS, Mail, and Web servers in 3 Connected Networks with Routers. (Persian)
 
 یک ریپوی ساده هست برای قرار دادن یه پروژه دانشجویی. این کار در برنامه سیسکو پکت تریسر cisco packet tacer انجام شده و جزئیات پروژه به این صورت هست که در ۳ شهر مختلف دانشگاه هایی قرار دارن و هر کدوم از این دانشگاه ها دارای سرور های دی اچ سی پی، دی ان اس، میل سرور و وب سرور هستن. داخل هر کدوم از شبکه هم باید از تجهیزات بیسیم و با سیم استفاده بشه و هر کدوم از این شبکه ها باید بتونن با شبکه دیگه ارتباط برقرار کنن.
 
@@ -10,4 +10,4 @@ setting up DHCP, DNS, Mail, and Web server in 3 Connected Networks with Routers.
 
 
 
-Youtube Link: (in process...)
+Youtube Link: https://youtu.be/fGtZ_y5ZPbQ?si=vmh_8oEKBqWbwJzZ
